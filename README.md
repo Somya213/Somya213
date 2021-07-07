@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on Front End Development
 - 📫 How to reach me 
+- My Website---https://somya213.github.io/somyabhadu/
 My LinkedIn---https://www.linkedin.com/in/somya-bhadu-794277207/
 My discord server---https://discord.gg/aZrwTs8X
 
