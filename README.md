@@ -27,7 +27,7 @@
 const somya = {
   role:       "Front-End Web Developer",
   education:  "BCA Semester II · Manipal University Jaipur (Online)",
-  location:   "Udaipur, Rajasthan 🇮🇳",
+  location:   "Bikaner, Rajasthan 🇮🇳",
   status:     "Open to Internships",
   focus:      ["UI Development", "React.js", "Google Cloud"],
   motto:      "EAT | CODE | REPEAT"
