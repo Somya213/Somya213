@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm a front-end web developer based in Udaipur, Rajasthan, currently pursuing my BCA (Sem II) at Manipal University Jaipur Online. I build clean, responsive user interfaces and have hands-on experience shipping real products — including a live trading education platform with integrated payments.
+I'm a front-end web developer based in Bikaner, Rajasthan, currently pursuing my BCA (Sem II) at Manipal University Jaipur Online. I build clean, responsive user interfaces and have hands-on experience shipping real products — including a live trading education platform with integrated payments.
 
 I hold certifications from both Google Cloud and AWS, and have earned 80+ skill badges on Google's learning platform (Diamond League, 99,875+ XP). Currently open to front-end internship opportunities.
 
@@ -64,7 +64,6 @@ A fully functional trading education platform covering stocks, forex, and crypto
 | **TradersTank** | Trading education platform with payment integration | React · Lovable | [View →](https://traderstank.lovable.app) |
 | **Portfolio** | Personal developer portfolio | HTML · CSS · JS | [View →](https://somya213.github.io/somyabhadu/) |
 | **JS Click Effects** | Interactive click animation experiments | JavaScript · CSS | [View →](https://somya213.github.io/jsOnclickeffect.github.io/) |
-| **Age in Days** | Calculates your exact age in days | HTML · CSS · JS | [View →](https://somya213.github.io/ageInDays.github.io/) |
 | **Quantum UI** | Minimal UI design experiment | HTML · CSS | [View →](https://somya213.github.io/quantum.github.io/) |
 
 ---
@@ -84,9 +83,9 @@ A fully functional trading education platform covering stocks, forex, and crypto
 
 <div align="center">
 
-![Somya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Somya213&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=F7DF1E&icon_color=F7DF1E&text_color=ffffff)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Somya213&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Somya213&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F7DF1E&text_color=ffffff)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Somya213&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
