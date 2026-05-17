@@ -1,81 +1,86 @@
 <div align="center">
 
-```
-███████╗ ██████╗ ███╗   ███╗██╗   ██╗ █████╗
-██╔════╝██╔═══██╗████╗ ████║╚██╗ ██╔╝██╔══██╗
-███████╗██║   ██║██╔████╔██║ ╚████╔╝ ███████║
-╚════██║██║   ██║██║╚██╔╝██║  ╚██╔╝  ██╔══██║
-███████║╚██████╔╝██║ ╚═╝ ██║   ██║   ██║  ██║
-╚══════╝ ╚═════╝ ╚═╝     ╚═╝   ╚═╝   ╚═╝  ╚═╝
-                                    BHADU
-```
+<h1>Somya Bhadu</h1>
+<h3>Front-End Web Developer &nbsp;·&nbsp; BCA @ MUJ Online &nbsp;·&nbsp; Google & AWS Certified</h3>
 
-### Front-End Developer · BCA @ MUJ Online · Google & AWS Certified
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://somya213.github.io/somyabhadu/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://somya213.github.io/somyabhadu/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somya-bhadu-794277207/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bhadu_somya)
-[![Google Skills](https://img.shields.io/badge/Google_Skills-Diamond_League_🏆-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/60342383-24c9-4cfa-90c5-8f645e3b75d5)
+[![Google Skills](https://img.shields.io/badge/Google_Skills_%F0%9F%8F%86_Diamond-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/60342383-24c9-4cfa-90c5-8f645e3b75d5)
+
+<br/>
+
+*"EAT · CODE · REPEAT"*
 
 </div>
 
 ---
 
-## `> whoami`
+## About Me
 
-```js
-const somya = {
-  role:       "Front-End Web Developer",
-  education:  "BCA Semester II · Manipal University Jaipur (Online)",
-  location:   "Bikaner, Rajasthan 🇮🇳",
-  status:     "Open to Internships",
-  focus:      ["UI Development", "React.js", "Google Cloud"],
-  motto:      "EAT | CODE | REPEAT"
-};
-```
+I'm a front-end web developer based in Udaipur, Rajasthan, currently pursuing my BCA (Sem II) at Manipal University Jaipur Online. I build clean, responsive user interfaces and have hands-on experience shipping real products — including a live trading education platform with integrated payments.
+
+I hold certifications from both Google Cloud and AWS, and have earned 80+ skill badges on Google's learning platform (Diamond League, 99,875+ XP). Currently open to front-end internship opportunities.
 
 ---
 
-## `> tech_stack`
+## Featured Project
+
+### TradersTank — Trading Education Platform
+
+[![Live](https://img.shields.io/badge/Live_Site-traderstank.lovable.app-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://traderstank.lovable.app)
+[![Status](https://img.shields.io/badge/Status-Active-22c55e?style=for-the-badge)]()
+[![Payments](https://img.shields.io/badge/Payments-Integrated-F7DF1E?style=for-the-badge&logo=stripe&logoColor=black)]()
+
+A fully functional trading education platform covering stocks, forex, and crypto — from beginner fundamentals to advanced strategies. Features expert-led courses, live classes, and a complete payment system for course purchases.
+
+---
+
+## Tech Stack
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 **Cloud & Tools**
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## `> achievements`
+## Projects
 
-🏆 **Diamond League** on Google Skills — 99,875+ XP  
-📛 **80+ Skill Badges** earned on Google Cloud (BigQuery, Kubernetes, Gemini, Terraform, and more)  
-☁️ **AWS Certified**  
-🔥 Active learner — consistently earning badges across Cloud, AI/ML, and Data Engineering
-
----
-
-## `> projects`
-
-| Project | Tech | Live |
-|---|---|---|
-| **Personal Portfolio** | HTML · CSS · JS | [View →](https://somya213.github.io/somyabhadu/) |
-| **JS Click Effects** | JavaScript · CSS | [View →](https://somya213.github.io/jsOnclickeffect.github.io/) |
-| **Age in Days Calculator** | HTML · CSS · JS | [View →](https://somya213.github.io/ageInDays.github.io/) |
-| **Quantum UI** | HTML · CSS | [View →](https://somya213.github.io/quantum.github.io/) |
+| Project | Description | Stack | Link |
+|:--------|:------------|:------|:----:|
+| **TradersTank** | Trading education platform with payment integration | React · Lovable | [View →](https://traderstank.lovable.app) |
+| **Portfolio** | Personal developer portfolio | HTML · CSS · JS | [View →](https://somya213.github.io/somyabhadu/) |
+| **JS Click Effects** | Interactive click animation experiments | JavaScript · CSS | [View →](https://somya213.github.io/jsOnclickeffect.github.io/) |
+| **Age in Days** | Calculates your exact age in days | HTML · CSS · JS | [View →](https://somya213.github.io/ageInDays.github.io/) |
+| **Quantum UI** | Minimal UI design experiment | HTML · CSS | [View →](https://somya213.github.io/quantum.github.io/) |
 
 ---
 
-## `> stats`
+## Certifications & Achievements
+
+| Achievement | Details |
+|:------------|:--------|
+| 🏆 Google Skills — Diamond League | 99,875+ XP across Cloud, AI/ML, and Data Engineering |
+| 📛 80+ Google Cloud Skill Badges | BigQuery, Kubernetes, Gemini, Terraform, and more |
+| ☁️ AWS Certified | Amazon Web Services certification |
+| 💳 Shipped a Live Product | TradersTank — with real payment integration |
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -87,18 +92,18 @@ const somya = {
 
 ---
 
-## `> connect`
+## Let's Connect
 
-```
-📧  Open to internship opportunities
-💬  DM me on LinkedIn or Twitter
-🌐  Check out my work at somya213.github.io/somyabhadu/
-```
+I'm actively looking for front-end internship opportunities. If you're working on something interesting or just want to talk web dev, feel free to reach out.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somya-bhadu-794277207/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bhadu_somya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://somya213.github.io/somyabhadu/)
 
 <div align="center">
 
-**"Developing Skills That Matter"**
+<br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Somya213&color=F7DF1E&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=Somya213&color=F7DF1E&style=for-the-badge&label=Profile+Views)
 
 </div>
